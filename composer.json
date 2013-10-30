@@ -1,0 +1,22 @@
+{
+    "require": {
+        "sisoftrg/jade.php": "dev-master"
+    },
+    "repositories": [
+        {
+            "type":"package",
+            "package":{
+                "name":"sisoftrg/jade.php",
+                "version":"dev-master",
+                "source":{
+                    "type":"git",
+                    "url":"http://github.com/sisoftrg/jade.php",
+                    "reference":"master"
+                },
+                "autoload": {
+                    "psr-0": { "Jade": "src/" }
+                }
+            }
+        }
+    ]
+}

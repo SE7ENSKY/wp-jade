@@ -1,0 +1,19 @@
+[
+    {
+        "name": "sisoftrg/jade.php",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "http://github.com/sisoftrg/jade.php",
+            "reference": "master"
+        },
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Jade": "src/"
+            }
+        }
+    }
+]

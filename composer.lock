@@ -1,0 +1,41 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "cae6502fdd0fd1af390ce50aa6b5b8fa",
+    "packages": [
+        {
+            "name": "sisoftrg/jade.php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "http://github.com/sisoftrg/jade.php",
+                "reference": "master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Jade": "src/"
+                }
+            },
+            "time": "2013-05-28 20:47:10"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "sisoftrg/jade.php": 20
+    },
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
